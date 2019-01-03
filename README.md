@@ -1,4 +1,4 @@
-# ng State Management and unit test case
+# NgRx State Management and Unit  Test case Using (hot and col) jasmine-marbles
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.3.
 
