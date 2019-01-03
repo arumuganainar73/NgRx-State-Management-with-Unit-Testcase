@@ -27,7 +27,7 @@ export class UserEffects {
   hostName = window.location.hostname;
 
   /**
-   * @description Get number of 'ready assets' for the feed relevant to the logged in dealer
+   * @description 
    * @memberof UserEffects
    */
   @Effect()
@@ -57,7 +57,7 @@ export class UserEffects {
     }
   );
   /**
-   * @description Get number of 'ready assets' for the feed relevant to the logged in dealer
+   * @description 
    * @memberof UserEffects
    */
   @Effect()
@@ -89,7 +89,7 @@ export class UserEffects {
     }
   );
   /**
-  * @description Get number of 'ready assets' for the feed relevant to the logged in dealer
+  * @description
   * @memberof UserEffects
   */
   @Effect()

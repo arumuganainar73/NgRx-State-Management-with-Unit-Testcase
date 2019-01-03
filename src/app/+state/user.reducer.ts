@@ -4,7 +4,7 @@ import {
 } from './user.actions';
 
 /**
- * Interface for the 'set-asset-info' data used in
+ * Interface for the 'customer' data used in
  *  - UserState, and
  *  - UserReducer
  *

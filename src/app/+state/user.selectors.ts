@@ -1,7 +1,7 @@
 import { createFeatureSelector, createSelector } from '@ngrx/store';
 import { UserState } from './user.reducer';
 
-// Lookup the 'set-asset-info' feature state managed by NgRx
+// Lookup the 'customer' feature state managed by NgRx
 const getUserState = createFeatureSelector<UserState>(
   'customer'
 );
