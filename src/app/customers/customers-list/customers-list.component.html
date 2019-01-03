@@ -1,0 +1,6 @@
+<div *ngIf="customers">
+  <h3>Users List</h3>
+  <!-- <div *ngFor="let customer of customers | async"> -->
+  <app-customer-details [customer]='customers'></app-customer-details>
+  <!-- </div> -->
+</div>
